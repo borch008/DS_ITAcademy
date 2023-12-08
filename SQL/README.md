@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <span style="color:darkred">CAT</span>
 Exercicis i tutorials de SQL
 
