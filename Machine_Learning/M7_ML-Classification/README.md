@@ -1,21 +1,25 @@
-# ML_classification
-Modul 7 Tasca 1 del curs Data Science IT ACADEMY
+# <span style="color:darkred">CAT</span>
 
-Objectius:
-  - Neteja i interpretació de les dades.
-  - Preprocessats.
-  - Creació de models de classificació (arbres de classificació, KNN - k-Nearest neighbors, regressió logística, support vector machine, XGboost, altres models...).
-  - Utilització de les mètriques per interpretar els resultats.
-  - Estudi i modificació de paràmetres.
+## Exercicis d'algoritmes de Classificació
 
-Exercicis:
+**OBJECTIUS:**  
+> Neteja i interpretació de les dades.  
+> Preprocessats.  
+> Creació de models de classificació (arbres de classificació, KNN - k-Nearest neighbors, regressió logística, support vector machine, XGboost, altres models...).  
+> Utilització de les mètriques per interpretar els resultats.  
+> Estudi i modificació de paràmetres.  
 
-- Exercici 1: Crea almenys dos models de classificació diferents per intentar predir el millor les classes de l'arxiu adjunt.
+---
 
-- Exercici 2: Compara els models de classificació utilitzant la precisió (accuracy), una matriu de confusió i d’altres mètriques més avançades.
+# <span style="color:darkblue">ENG</span>  
 
-- Exercici 3: Entrena’ls usant els diferents paràmetres que admeten per tal de millorar-ne la predicció.
+## Classification algorithms exercises
 
-- Exercici 4: Compara el seu rendiment fent servir l’aproximació traint/test o cross-validation.
+**GOALS:**  
+> Clean and interpret data.  
+> Preprocessing.  
+> Creation of classification models (classification trees, KNN-KNearest Neighbors, logsitic regression, Support Vector Machine, XGBoost, other models...).  
+> Using metrics to interpret the results.  
+> Analyzing and editing paramaters.  
 
-- Exercici 5. Aplica algun procés d'enginyeria per millorar els resultats (normalització, estandardització, mostreig...)
+

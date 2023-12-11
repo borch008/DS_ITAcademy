@@ -1,21 +1,22 @@
-# M5_SkLearn_Train_Test
-Modul 5 Tasca 2 del curs Data Science IT ACADEMY
+# <span style="color:darkred">CAT</span>
 
-OBJECTIUS:
-  - Preprocesament de les dades.
-  - Transformació i creació de Dummys i enumeracions.
-  - Divisió de les dades en Train i Test.
-  - Estudi de les dades utilitzant eines anteriors (gràfiques, hipòtesis…).
+## Exercicis de Train-Test amb Scikit-Learn a partir d'un dataset amb informació sobre les vivendes de Houston
 
-EXERCICIS:
-- Exercici 1
-Parteix el conjunt de dades adjunt en train i test. Estudia els dos conjunts per separat, a nivell descriptiu.
-També adjunt trobaràs una descripció de les diferents variables del dataset.
+**OBJECTIUS:**  
+> Preprocesament de les dades.  
+> Transformació i creació de Dummys i enumeracions.  
+> Divisió de les dades en Train i Test.  
+> Estudi de les dades utilitzant eines anteriors (gràfiques, hipòtesis…).  
 
-- Exercici 2
-Aplica algun procés de transformació (estandarditzar les dades numèriques, crear columnes dummies, polinomis...).
+---
 
-- Exercici 3
-Resumeix les noves columnes generades de manera estadística i gràfica
+# <span style="color:darkblue">ENG</span>
 
-Trobareu els recursos en el repositori
+## Train-Test exercises with Scikit-Learn from a dataset about information of Houston housing  
+
+**GOALS:**  
+> Data preprocessing.  
+> Transformation and creation of dummys and enumerations.  
+> Spliting data into Train and Test sets.  
+> Analyzing data using tools seen before (graphics, hypothesis...).
+

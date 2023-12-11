@@ -1,18 +1,19 @@
-# M4_visualitzaci-_explorat-ria
-Modul 4 del Curs DATA SCIENTIST fet a IT ACADEMY. 
-Activitats proposades:
+# <span style="color:darkred">CAT</span>
 
-- Exercici 1
-Descarrega el dataset adjunt preu lloguer per trimestre i barri.csv extret de la web OpenDataBCN i resumeix-lo estadísticament i gràficament.
-Crea almenys una visualització per:
-  - Una variable categòrica (Districte o Barri)
-  - Una variable numèrica (Preu)
-  - Una variable numèrica i una categòrica (Districte i Preu)
-  - Dues variables numèriques (Any o Trimestre i Preu)
-  - Tres variables (Barri o Districte, Trimestre i Preu)
+## Utilitzant les biblioteques de visualització de dades Matplotlib o Seaborn, realitza els següents exercicis
 
-- Exercici 2
-Exporta els gràfics com imatges o com HTML.
+**OBJECTIUS:**  
+> Ús de les llibreries gràfiques.   
+> Apendre a representar dades d'un Dataframe.  
+> Ànalisis i extrapolació de les gràfiques.  
 
-- Exercici 3
-Proposa alguna visualització que creguis que pot resultar interessant.
+---
+
+# <span style="color:darkblue">ENG</span>  
+
+## Using the data visualization libraries Matplotlib or Seabron, complete the following exercises  
+
+**GOALS:**
+> Use of the graphs libraries.  
+> Learn to represent data from a Dataframe.  
+> Analysis and extrapolation of the graphics. 

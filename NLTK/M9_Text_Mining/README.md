@@ -1,14 +1,19 @@
-# M9_text_mining
+# <span style="color:darkred">CAT</span>  
 
-Objectius:
-  - Realitzar mineria de texts.
-  - Interpretació dels textos.
-  - Anàlisis dels resultats
+## Exercicis d'anàlisi de sentiment i textos  
 
-Exercicis:
+**OBJECTIUS:**  
+> Realitzar mineria de texts.
+> Interpretació dels textos.
+> Anàlisis dels resultats
 
-- Exercici 1: Agafa un text en anglès que vulguis, i calcula'n la freqüència de les paraules.
+---
 
-- Exercici 2: Treu les stopwords i realitza stemming al teu conjunt de dades.
+# <span style="color:darkblue">ENG</span>
 
-- Exercici 3: Realitza sentiment analysis al teu conjunt de dades.
+## Sentiment and text analysis exercises
+
+**GOALS:**  
+> Perform text mining.  
+> Text interpretation.  
+> Analyze results.  
