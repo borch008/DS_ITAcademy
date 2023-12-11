@@ -3,8 +3,8 @@
 ## Exercicis de Web Scraping
 
 **OBJECTIUS:**  
-> Web scraping.
-> Documentar dades recollides amb web scraping. 
+> Web scraping.  
+> Documentar dades recollides amb web scraping.  
 
 --- 
 
@@ -13,5 +13,5 @@
 ## Web Scraping exercises  
 
 **GOALS:**  
-> Web scraping.  
-> Document data collected through web scraping.
+> Web scraping.    
+> Document data collected through web scraping.  

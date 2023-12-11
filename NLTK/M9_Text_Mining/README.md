@@ -3,9 +3,9 @@
 ## Exercicis d'anàlisi de sentiment i textos  
 
 **OBJECTIUS:**  
-> Realitzar mineria de texts.
-> Interpretació dels textos.
-> Anàlisis dels resultats
+> Realitzar mineria de texts.  
+> Interpretació dels textos.  
+> Anàlisis dels resultats.  
 
 ---
 
